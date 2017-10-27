@@ -1,0 +1,62 @@
+
+body {
+	font-family: 'Raleway', sans-serif;
+font-family: 'Indie Flower', cursive;
+font-family: 'EB Garamond', serif;
+font-family: 'Kaushan Script', cursive;
+	background: #cbe6ea; /* For browsers that do not support gradients */
+	background: linear-gradient(to right,rgb(203, 230, 234),rgb(255, 210, 178)); /*Standard*/
+}
+
+.container {
+	margin-top: 75px;
+	background-color:#6e6e71;
+	width: 75%;
+	float: none;
+	border-radius: 15px;
+	box-shadow: 10px 10px 5px #5e5e5e;
+}
+
+.header{
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+	color:#f4f4f4;
+
+}
+
+ .options{
+	 color:#f4f4f4;
+	 font-family: 'EB Garamond', serif;
+	 font-size: 20px;
+	 }
+	 .results{
+	color:#f4f4f4;
+}
+
+ .selectTitle {
+	color:#f4f4f4;
+	font-family: 'Indie Flower', cursive;
+}
+ul, li {
+	list-style: none;
+}
+
+.app {
+	float: none; margin: 0 auto;
+}
+
+.newPasswordsDisplay {
+	font-family: 'Dancing Script', cursive;
+}
+
+.header, .selectBox, .options, .credits {
+	text-align: center;
+}
+
+.results{
+	text-align: center;
+}
+
+.newPasswordsDisplay {
+	font-weight: bold;
+}
